@@ -1,0 +1,47 @@
+.footer {
+    padding: 40px 0 20px;
+    .text {
+        margin-top: 20px;
+    }
+}
+
+@media (min-width: 576px)
+{
+		
+}
+@media (min-width: 768px)
+{
+		
+}
+@media (min-width: 992px)
+{
+    .footer {
+        .text {
+            margin-top: 0;
+        }
+    }
+}
+@media (min-width: 1140px)
+{
+
+}
+@media (min-width: 1280px)
+{
+    .footer {
+        position: absolute;
+        left: 0;
+        right: 0;
+        padding: 0;
+        bottom: calc((54 / 950) * 100vh);
+    }
+}
+@media (min-width: 1366px)
+{
+
+}
+@media (min-width: 1920px)
+{
+	.footer {
+        bottom: calc((110 / 950) * 100vh);
+    }
+}

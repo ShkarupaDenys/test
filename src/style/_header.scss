@@ -1,0 +1,35 @@
+.header {
+    position: fixed;
+    top: 15px;
+    left: 0;
+    right: 0;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    z-index: 901;
+}
+
+@media (min-width: 576px) {
+		
+}
+@media (min-width: 768px) {
+		
+}
+@media (min-width: 992px) {
+		
+}
+@media (min-width: 1140px) {
+
+}
+@media (min-width: 1280px) {
+    .header {
+        height: 90px;
+        top: 0;
+    }
+}
+@media (min-width: 1366px) {
+
+}
+@media (min-width: 1920px) {
+	
+}
